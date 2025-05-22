@@ -1,5 +1,5 @@
-function sumar(a, b) {
-  return a + b;
+function sumar(a, c) {
+  return a + c;
 }
 
 export default sumar;
